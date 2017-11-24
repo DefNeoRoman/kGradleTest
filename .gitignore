@@ -1,0 +1,17 @@
+
+
+.idea
+
+*.iml
+
+build/
+
+*.jar
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+.gitignore
+gradle/
+gradlew
+gradlew.bat
